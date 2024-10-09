@@ -15,8 +15,8 @@ const config: DocsThemeConfig = {
         text: (
             <span>
                 MIT {new Date().getFullYear()} ©{" "}
-                <a href="https://github.com/softwareXPlus/website" target="_blank">
-                    Alt Ctrl
+                <a href="https://github.com/softwarexplus/website" target="_blank">
+                    SoftwareX Plus
                 </a>
                 .
             </span>
